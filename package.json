@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript-course",
+  "version": "1.0.0",
+  "description": "EcmaScript course taken in Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiosinlimites/ecmascript-course.git"
+  },
+  "keywords": [
+    "EcmaScript"
+  ],
+  "author": "Sergio Andrés Bolaños Penagos",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sergiosinlimites/ecmascript-course/issues"
+  },
+  "homepage": "https://github.com/sergiosinlimites/ecmascript-course#readme"
+}
