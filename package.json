@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sergiosinlimites/ecmascript-course/issues"
   },
-  "homepage": "https://github.com/sergiosinlimites/ecmascript-course#readme"
+  "homepage": "https://github.com/sergiosinlimites/ecmascript-course#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
